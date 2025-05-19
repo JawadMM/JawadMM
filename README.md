@@ -1,10 +1,10 @@
 # Hello, I'm Jawad 👋
 
-## Software Engineer | Full-Stack Developer | AI & IoT Enthusiast
+## Software Engineer | Full-Stack Developer | AI & IoT Developer
 
 I'm a Software Engineering graduate from King Fahd University of Petroleum and Minerals with a passion for building intelligent systems that bridge software and hardware. My expertise spans full-stack development, computer vision, and IoT solutions.
 
-## 🔧 Technologies & Skills
+## 🚀 Technologies & Skills
 
 ### Programming Languages
 
@@ -56,33 +56,6 @@ I'm a Software Engineering graduate from King Fahd University of Petroleum and M
   <img src="icons/docker.png" alt="Docker" width="50" height="50" style="margin-right: 25px"/>
 </p>
 
-## 🚀 Featured Projects
-
-### IoT-Based Person Detection and Alert System
-
-- Implemented edge AI computing using OpenCV on Raspberry Pi 5 with Hailo AI accelerator
-- Developed cloud connectivity with AWS IoT Core using MQTT protocol
-- Created real-time monitoring dashboard with AWS Amplify
-- Integrated visual alerting system using ESP32 microcontroller
-
-### Computer Vision Hand Gesture-Controlled Robot Car
-
-- Built an ESP32-WROVER camera-based system for real-time gesture recognition
-- Created and trained custom dataset of 400 hand gesture images with Edge Impulse
-- Implemented motor control using PCA9685 PWM driver via I2C communication
-
-### Industrial Environmental Monitoring System
-
-- Developed ESP32-based solution for monitoring temperature, humidity, and air quality
-- Built secure cloud connectivity using AWS IoT Core with certificate-based authentication
-- Created real-time monitoring dashboard on AWS Amplify
-
-### STC TV Viewers Behavior Analytics
-
-- Analyzed user viewing patterns and categorized users based on show preferences
-- Built time series prediction model using Python's Prophet library
-- Developed content recommendation system based on viewing similarity
-
 ## 📚 Education
 
 - **Bachelor of Science in Software Engineering**  
@@ -99,5 +72,13 @@ I'm a Software Engineering graduate from King Fahd University of Petroleum and M
 
 ## 📫 How to reach me
 
-[![LinkedIn](icons/linkedin.png)](https://linkedin.com/in/yourusername)
-[![Email](icons/email.png)](mailto:almuttawa.jawad@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/jawadalmuttawa/" style="text-decoration: none; margin-right: 20px; display: inline-flex; align-items: center;">
+    <img src="icons/linkedin.png" alt="LinkedIn" width="50" height="50" style="margin-right: 10px;"/>
+    <span style="text-decoration: underline;">LinkedIn</span>
+  </a>
+  <a href="mailto:almuttawa.jawad@gmail.com" style="text-decoration: none; display: inline-flex; align-items: center;">
+    <img src="icons/email.png" alt="Email" width="50" height="50" style="margin-right: 10px;"/>
+    <span style="text-decoration: underline;">Email</span>
+  </a>
+</p>
