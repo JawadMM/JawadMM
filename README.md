@@ -75,10 +75,12 @@ I'm a Software Engineering graduate from King Fahd University of Petroleum and M
 <p>
   <a href="https://www.linkedin.com/in/jawadalmuttawa/" style="text-decoration: none; margin-right: 20px; display: inline-flex; align-items: center;">
     <img src="icons/linkedin.png" alt="LinkedIn" width="50" height="50" style="margin-right: 10px;"/>
-    <span style="text-decoration: underline;">LinkedIn</span>
+    <span style="text-decoration: underline; font-size: 18px; font-weight: 500;">LinkedIn</span>
   </a>
+</p>
+<p>
   <a href="mailto:almuttawa.jawad@gmail.com" style="text-decoration: none; display: inline-flex; align-items: center;">
     <img src="icons/email.png" alt="Email" width="50" height="50" style="margin-right: 10px;"/>
-    <span style="text-decoration: underline;">Email</span>
+    <span style="text-decoration: underline; font-size: 18px; font-weight: 500;">Email</span>
   </a>
 </p>
