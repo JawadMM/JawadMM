@@ -51,7 +51,7 @@ I'm a Software Engineering graduate from King Fahd University of Petroleum and M
 
 <p>
   <img src="icons/git.png" alt="Git" width="50" height="50" style="margin-right: 25px"/>
-  <img src="icons/github-gray.png" alt="GitHub" width="50" height="50" style="margin-right: 25px"/>
+  <img src="icons/github.png" alt="GitHub" width="50" height="50" style="margin-right: 25px"/>
   <img src="icons/aws.png" alt="AWS" width="50" height="50" style="margin-right: 25px"/>
   <img src="icons/docker.png" alt="Docker" width="50" height="50" style="margin-right: 25px"/>
 </p>
