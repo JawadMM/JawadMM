@@ -7,6 +7,7 @@ I'm a Software Engineering graduate from King Fahd University of Petroleum and M
 ## 🔧 Technologies & Skills
 
 ### Programming Languages
+
 <p>
   <img src="icons/python.png" alt="Python" width="50" height="50" style="margin-right: 10px"/>
   <img src="icons/javascript.png" alt="JavaScript" width="50" height="50" style="margin-right: 10px"/>
@@ -14,6 +15,7 @@ I'm a Software Engineering graduate from King Fahd University of Petroleum and M
 </p>
 
 ### Frontend Development
+
 <p>
   <img src="icons/react.png" alt="React" width="50" height="50" style="margin-right: 10px"/>
   <img src="icons/html-5.png" alt="HTML5" width="50" height="50" style="margin-right: 10px"/>
@@ -21,6 +23,7 @@ I'm a Software Engineering graduate from King Fahd University of Petroleum and M
 </p>
 
 ### Backend Development
+
 <p>
   <img src="icons/Node.js.png" alt="Node.js" width="50" height="50" style="margin-right: 10px"/>
   <img src="icons/express-js.png" alt="Express.js" width="50" height="50" style="margin-right: 10px"/>
@@ -28,6 +31,7 @@ I'm a Software Engineering graduate from King Fahd University of Petroleum and M
 </p>
 
 ### AI & Data Science
+
 <p>
   <img src="icons/opencv.png" alt="OpenCV" width="50" height="50" style="margin-right: 10px"/>
   <img src="icons/pytorch.png" alt="PyTorch" width="50" height="50" style="margin-right: 10px"/>
@@ -37,15 +41,18 @@ I'm a Software Engineering graduate from King Fahd University of Petroleum and M
 </p>
 
 ### IoT & Embedded Systems
+
 <p>
   <img src="icons/raspberry-pi.png" alt="Raspberry Pi" width="50" height="50" style="margin-right: 10px"/>
   <img src="icons/Espressif.png" alt="ESP32" width="50" height="50" style="margin-right: 10px"/>
 </p>
 
 ### Cloud & DevOps
+
 <p>
   <img src="icons/git.png" alt="Git" width="50" height="50" style="margin-right: 10px"/>
-  <img src="icons/github.png" alt="GitHub" width="50" height="50" style="margin-right: 10px"/>
+  <!-- <img src="icons/github.png" alt="GitHub" width="50" height="50" style="margin-right: 10px"/> -->
+  <img src="icons/github.png" alt="GitHub" width="50" height="50" style="margin-right: 10px; filter: invert(48%) sepia(10%) saturate(300%) hue-rotate(170deg) brightness(90%) contrast(90%)"/>
   <img src="icons/aws.png" alt="AWS" width="50" height="50" style="margin-right: 10px"/>
   <img src="icons/docker.png" alt="Docker" width="50" height="50" style="margin-right: 10px"/>
 </p>
