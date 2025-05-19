@@ -7,42 +7,48 @@ I'm a Software Engineering graduate from King Fahd University of Petroleum and M
 ## 🔧 Technologies & Skills
 
 ### Programming Languages
-
-<img src="icons/python.png" alt="Python" width="50" height="50"/>
-<img src="icons/javascript.png" alt="JavaScript" width="50" height="50"/>
-<img src="icons/c++.png" alt="C++" width="50" height="50"/>
+<p>
+  <img src="icons/python.png" alt="Python" width="50" height="50" style="margin-right: 10px"/>
+  <img src="icons/javascript.png" alt="JavaScript" width="50" height="50" style="margin-right: 10px"/>
+  <img src="icons/c++.png" alt="C++" width="50" height="50" style="margin-right: 10px"/>
+</p>
 
 ### Frontend Development
-
-<img src="icons/react.png" alt="React" width="50" height="50"/>
-<img src="icons/html-5.png" alt="HTML5" width="50" height="50"/>
-<img src="icons/css.png" alt="CSS3" width="50" height="50"/>
+<p>
+  <img src="icons/react.png" alt="React" width="50" height="50" style="margin-right: 10px"/>
+  <img src="icons/html-5.png" alt="HTML5" width="50" height="50" style="margin-right: 10px"/>
+  <img src="icons/css.png" alt="CSS3" width="50" height="50" style="margin-right: 10px"/>
+</p>
 
 ### Backend Development
-
-<img src="icons/Node.js.png" alt="Node.js" width="50" height="50"/>
-<img src="icons/express-js.png" alt="Express.js" width="50" height="50"/>
-<img src="icons/mongodb.png" alt="MongoDB" width="50" height="50"/>
+<p>
+  <img src="icons/Node.js.png" alt="Node.js" width="50" height="50" style="margin-right: 10px"/>
+  <img src="icons/express-js.png" alt="Express.js" width="50" height="50" style="margin-right: 10px"/>
+  <img src="icons/mongodb.png" alt="MongoDB" width="50" height="50" style="margin-right: 10px"/>
+</p>
 
 ### AI & Data Science
-
-<img src="icons/opencv.png" alt="OpenCV" width="50" height="50"/>
-<img src="icons/pytorch.png" alt="PyTorch" width="50" height="50"/>
-<img src="icons/pandas.png" alt="Pandas" width="50" height="50"/>
-<img src="icons/scikit-learn.png" alt="scikit-learn" width="50" height="50"/>
-<img src="icons/Matplotlib.png" alt="MatplotLib" width="50" height="50"/>
+<p>
+  <img src="icons/opencv.png" alt="OpenCV" width="50" height="50" style="margin-right: 10px"/>
+  <img src="icons/pytorch.png" alt="PyTorch" width="50" height="50" style="margin-right: 10px"/>
+  <img src="icons/pandas.png" alt="Pandas" width="50" height="50" style="margin-right: 10px"/>
+  <img src="icons/scikit-learn.png" alt="scikit-learn" width="50" height="50" style="margin-right: 10px"/>
+  <img src="icons/Matplotlib.png" alt="MatplotLib" width="50" height="50" style="margin-right: 10px"/>
+</p>
 
 ### IoT & Embedded Systems
-
-<img src="icons/raspberry-pi.png" alt="Raspberry Pi" width="50" height="50"/>
-<img src="icons/Espressif.png" alt="ESP32" width="50" height="50"/>
+<p>
+  <img src="icons/raspberry-pi.png" alt="Raspberry Pi" width="50" height="50" style="margin-right: 10px"/>
+  <img src="icons/Espressif.png" alt="ESP32" width="50" height="50" style="margin-right: 10px"/>
+</p>
 
 ### Cloud & DevOps
-
-<img src="icons/git.png" alt="Git" width="50" height="50"/>
-<img src="icons/github.png" alt="GitHub" width="50" height="50"/>
-<img src="icons/aws.png" alt="AWS" width="50" height="50"/>
-<img src="icons/docker.png" alt="Docker" width="50" height="50"/>
+<p>
+  <img src="icons/git.png" alt="Git" width="50" height="50" style="margin-right: 10px"/>
+  <img src="icons/github.png" alt="GitHub" width="50" height="50" style="margin-right: 10px"/>
+  <img src="icons/aws.png" alt="AWS" width="50" height="50" style="margin-right: 10px"/>
+  <img src="icons/docker.png" alt="Docker" width="50" height="50" style="margin-right: 10px"/>
+</p>
 
 ## 🚀 Featured Projects
 
