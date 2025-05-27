@@ -28,6 +28,7 @@ I'm a Software Engineering graduate from King Fahd University of Petroleum and M
   <img src="icons/Node.js.png" alt="Node.js" width="50" height="50" style="margin-right: 25px"/>
   <img src="icons/express-js.png" alt="Express.js" width="50" height="50" style="margin-right: 25px"/>
   <img src="icons/mongodb.png" alt="MongoDB" width="50" height="50" style="margin-right: 25px"/>
+  <img src="icons/graphql.png" alt="Graphql" width="50" height="50" style="margin-right: 25px"/>
 </p>
 
 ### AI & Data Science
