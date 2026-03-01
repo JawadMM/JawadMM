@@ -4,7 +4,8 @@
 
 I'm a Software Engineering graduate from King Fahd University of Petroleum and Minerals with a passion for building intelligent systems that bridge software and hardware. My expertise spans full-stack development, computer vision, and IoT solutions.
 
-## 🚀 Technologies & Skills
+
+## Technologies & Skills
 
 ### Programming Languages
 
@@ -28,7 +29,6 @@ I'm a Software Engineering graduate from King Fahd University of Petroleum and M
   <img src="icons/Node.js.png" alt="Node.js" width="50" height="50" style="margin-right: 25px"/>
   <img src="icons/express-js.png" alt="Express.js" width="50" height="50" style="margin-right: 25px"/>
   <img src="icons/mongodb.png" alt="MongoDB" width="50" height="50" style="margin-right: 25px"/>
-  <img src="icons/graphql.png" alt="Graphql" width="50" height="50" style="margin-right: 25px"/>
 </p>
 
 ### AI & Data Science
@@ -57,20 +57,7 @@ I'm a Software Engineering graduate from King Fahd University of Petroleum and M
   <img src="icons/docker.png" alt="Docker" width="50" height="50" style="margin-right: 25px"/>
 </p>
 
-## 📚 Education
 
-- **Bachelor of Science in Software Engineering**  
-  King Fahd University of Petroleum and Minerals, 2025
-
-## 💼 Experience
-
-**Intern** at AILA | Saudi Arabia (June 2024 - August 2024)
-
-- Developed React components for an educational platform
-- Created interactive dashboards for student performance visualization
-- Integrated backend APIs for authentication and data handling
-- Collaborated in an agile environment using Git and Jira
-
-## 📫 How to reach me
+## How to reach me
 - [LinkedIn](https://www.linkedin.com/in/jawadalmuttawa/)
 - [Email](mailto:almuttawa.jawad@gmail.com)
